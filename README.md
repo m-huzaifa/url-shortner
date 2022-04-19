@@ -1,6 +1,7 @@
 # URL Shortner
 
 You probably have known about shorten URL services on the web such as bit.ly or goo.gl. It is quite handy, isn’t it? Especially when you found a really great recipe web link and want to share it to your friend or just want to jot it down on your note. This repository has been created to convert a url to shorten URL.
+
 Please setup your environment following the `Getting Started`
 section before starting the challenge.
 
